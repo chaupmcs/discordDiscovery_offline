@@ -1,0 +1,8 @@
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Release\BitClustering.exe.config
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Release\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Release\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Release\BitClustering.Form1.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Release\BitClustering.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Release\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Release\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Release\BitClustering.pdb

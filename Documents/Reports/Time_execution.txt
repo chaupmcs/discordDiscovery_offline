@@ -1,0 +1,56 @@
+Ver 2.4: Jan 2nd 2017 |
+=======================
+'BitClustering Li_Braysy': K_Clusters = 28, W_length = N_length / 4;
+'HOT_SAX + Squeezer' and 'BitCluster + Squeezer': threshold = 0.85, W_length=5;
+'HOT_SAX': W_length = 3;
+
+*Note: 
+	time unit is millisecond.
+	
+TEK16: 	(N_length: "128")
+	BitClustering Li_Braysy: 1426, 1336, 2033, 1150, 1225
+	BitCluster + Squeezer: 973, 1029, 1040, 1253, 1252
+	HOT_SAX: 5362, 5406, 5407, 5327, 5316
+	HOT_SAX + Squeezers: 1730, 1857, 1755, 1716, 1783
+
+	
+TEK17: (N_length: "128")
+	BitClustering Li_Braysy: 1526, 2247, 2473, 1565, 1884
+	BitCluster + Squeezer: 1754, 2083, 1951, 1912, 1940
+	HOT_SAX: 6229, 6118, 6037, 6135, 6239
+	HOT_SAX + Squeezers: 1049, 1048, 1021, 1141, 1197
+	
+	
+ECG: (N_length: "40")
+	BitClustering Li_Braysy: 4467, 4996, 4324, 4097, 4144
+	BitCluster + Squeezer: 4857, 5091, 4707, 4658, 4992
+	HOT_SAX: 37902, 37886, 37620, 37373, 38130
+	HOT_SAX + Squeezers: 18618, 18478, 18754, 18569, 18824
+	
+power_data: (N_length: "200")
+	BitClustering Li_Braysy: 23651, 27904, 28663, 27417, 23799
+	BitCluster + Squeezer: 22266, 26483, 24031, 24217, 22067
+	HOT_SAX: 215822, 256714, 214682, 210732, 226393
+	HOT_SAX + Squeezers: 26194, 26168, 26389, 26837, 26265
+	
+nprs43: (N_length: "160")
+	BitClustering Li_Braysy: 14208, 9993, 10956, 12452, 10698
+	BitCluster + Squeezer: 9685, 9754, 10037, 10736, 10424
+	HOT_SAX: 45242, 46140, 46584, 45803, 47454
+	HOT_SAX + Squeezers: 18920, 18429, 18420, 17727, 17950
+	
+nprs44: (N_length: "160")
+	BitClustering Li_Braysy: 11029, 13268, 11682, 12679, 10901
+	BitCluster + Squeezer: 10532, 11454, 11210, 10736, 10393
+	HOT_SAX: 73173, 72792, 74051, 72907, 72529
+	HOT_SAX + Squeezers: 37491, 38156, 37665, 37594, 36328
+	
+ERP: (N_length: "64")
+	BitClustering Li_Braysy: 423232, 478050, 438785, 425828, 443904
+	BitCluster + Squeezer: 404934, 385386, 393415, 403835, 399607
+	HOT_SAX: 5582402
+	HOT_SAX + Squeezers: 866882
+	
+
+	
+

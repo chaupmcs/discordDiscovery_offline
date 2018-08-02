@@ -1,0 +1,57 @@
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\NCKH_DM\BitClustering\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\D.Luffy\Documents\Visual Studio 2013\Projects\BitClustering\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\CPU10902-local\Desktop\DTA_DataMining\BitClustering\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\New folder\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\bit_cluster_enhancement\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Debug\BitClustering.exe.config
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\bin\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.Form1.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.exe
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.pdb
+C:\Users\chauuser_w10\Desktop\GIT_REPOS\Discord_Timeseries\BitClustering\obj\Debug\BitClustering.csprojResolveAssemblyReference.cache
